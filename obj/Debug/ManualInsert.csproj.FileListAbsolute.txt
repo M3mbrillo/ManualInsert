@@ -1,0 +1,11 @@
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\bin\Debug\ManualInsert.exe.config
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\bin\Debug\ManualInsert.exe
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\bin\Debug\ManualInsert.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.csprojResolveAssemblyReference.cache
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.Properties.Resources.resources
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.csproj.GenerateResource.Cache
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.exe
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.pdb
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.frmConfigConnection.resources
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.frmMain.resources
+c:\users\facundo\documents\visual studio 2015\Projects\ManualInsert\ManualInsert\obj\Debug\ManualInsert.frmCfgDataTypes.resources
